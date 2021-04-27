@@ -1,0 +1,27 @@
+.center {
+	position: fixed;
+	width: 80%;
+	height: 80%;
+	left: 15%;
+}
+
+#canvas {
+	border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+}
+
+.button {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
+.button:hover {opacity: 1}
+.button2 {background-color: #008CBA;} /* Blue */
